@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "921586475543",
+    "project_id": "react-native-project-dac52",
+    "storage_bucket": "react-native-project-dac52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:exo921586475543:android:090fbc391634e574ac7252",
+        "android_client_info": {
+          "package_name": "com.appnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "exo921586475543-2cfe9jh6335q65j908q931136umd9t65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "exoAIzaSyAIy5hsVqxWiRZqdvXpTwwPlIYJ2OWazBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "exo921586475543-2cfe9jh6335q65j908q931136umd9t65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
